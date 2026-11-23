@@ -1,0 +1,54 @@
+NAS MARGENS DO WATU
+Guia rápido para apresentar e editar
+
+ANTES DE ENTRAR NA SALA
+1. Salve Ailton-Krenak.html no computador da escola. Abra o arquivo
+   com dois cliques ou escolha Abrir com > Edge, Chrome ou Firefox.
+2. Conecte a TV. No Windows, use Win + P e escolha Duplicar para ver
+   a mesma página no computador e na TV.
+3. Clique em Modo projeção para ampliar os textos. Use F11 para
+   entrar ou sair da tela cheia. Confira a leitura do fundo da sala.
+
+COM CADA TURMA
+• Trajetória. Apresente Krenak e abra os marcos de 1987 e 2024.
+• O rio. Peça à turma que escolha a ordem dos três elementos.
+• Direitos. Destaque a mobilização coletiva e os dois artigos.
+• Quiz. Faça uma votação por pergunta e clique em Corrigir quiz.
+• Debate. Escolha uma pergunta, peça que conversem em duplas e ouça duas respostas.
+
+Antes da próxima turma, clique em Limpar respostas no quiz, recarregue
+a página para restaurar o percurso e clique em Voltar ao início no rodapé.
+Se recarregar, ligue novamente o Modo projeção.
+
+PARA COMPARTILHAR
+Distribua o arquivo HTML inteiro pelo canal da escola. Os alunos podem
+abrir no navegador e navegar pela página no próprio ritmo. No celular,
+salve primeiro o arquivo e abra em um navegador que aceite HTML local.
+O arquivo inclui a imagem e as interações. Só os links da seção Fontes
+precisam de internet. Algumas prévias de aplicativos desativam o quiz.
+Se isso acontecer, baixe e abra o arquivo diretamente no navegador.
+
+PARA EDITAR OS TEXTOS
+1. Faça uma cópia do HTML e abra a cópia no Bloco de Notas ou no VS Code.
+2. Use Ctrl + F para buscar “EDITE AQUI” ou uma frase da página.
+   Altere o texto entre as tags e preserve as tags e os atributos.
+   O bloco longo “data:image/jpeg;base64” guarda a imagem da página.
+3. No quiz, se mudar a resposta correta, deixe o atributo data-correct
+   em uma única opção por pergunta e atualize o comentário abaixo.
+4. Salve em UTF-8, mantendo a extensão .html. Abra no navegador,
+   recarregue e confira a edição e a correção do quiz.
+
+CRÉDITO DA ILUSTRAÇÃO
+A imagem da abertura foi criada com o gerador de imagens integrado e
+está incorporada no arquivo Ailton-Krenak.html.
+Prompt original:
+Asset for a Brazilian high-school educational website about Ailton
+Krenak and rivers. Wide 3:2 editorial photograph-style aerial
+landscape, a single wide emerald river carving an S curve through
+densely wooded rolling hills inspired by Atlantic Forest of
+southeastern Brazil, warm low afternoon sun, distant blue ridges,
+sky only in top quarter. Natural documentary texture, authentic
+tropical riparian forest, muted warm green and amber, detailed.
+Fictional landscape, not a depiction of a specific named river.
+No people, no buildings, no roads, no overlays, no lettering,
+no graphics or borders.
